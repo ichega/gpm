@@ -1,0 +1,5 @@
+digraph hello {
+	node [shape=circle]
+	node [fillcolor="#FF0000" style=filled]
+	"52b4cd9a-e4a9-46f2-82d5-d94c3b938336"
+}
